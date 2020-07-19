@@ -10,9 +10,9 @@
     "image": "mdx-deck screenshot slides.mdx",
     "help": "mdx-deck"
   },
-  "devDependencies": {
-    "mdx-deck": "git://github.com/nicoespeon/mdx-deck.git#gitgraphjs-custom-build"
-  },
   "author": "Boris Guzner github@regmagik.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  }
 }
